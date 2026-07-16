@@ -1,4 +1,6 @@
 Sistema de Reserva de Salas de Aula
+ALUNOS: PEDRO HENRIQUE DE ANDRADE COSTA / MATEUS CARVALHO GODINHO
+
 
 Descrição
 
@@ -27,3 +29,5 @@ Após o login
 4. Listar todas as reservas
 5. Ver minhas reservas
 6. Cancelar uma das minhas reservas
+
+OBS: OS ARQUIVOS PODEM ESTAR CRIADOS DE UMA MANEIRA ERRADA NO GITHUB, POIS EU NÃO SOUBE USAR O GITHUB DIREITO. 
